@@ -10,7 +10,7 @@
 
 const answers = [];
 answers[0] = prompt("What is your name?", "");
-answers[1] = prompt("What is your second name?", "");
+answers[1] = prompt("What is your second name?", ""); 
 answers[2] = prompt("How old are you?", "");
 
 document.write(answers);//typeof()-тип данных!

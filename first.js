@@ -8,9 +8,13 @@ number = 10;
 
 console.log(number);
 
+
+
 let numbr = 4.6;
 
 console.log(-4/0);
+
+
 
 const persone = "string";
 
